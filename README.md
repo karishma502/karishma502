@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karishma502
-- 👀 I’m interested in Web Development, Android Application Development, Automation Testing.
+- 👀 I’m interested in Web Development, Automation Testing.
 - 🌱 I’m currently learning Treading Technologies 
 - 💞️ I’m looking to collaborate on ...
 
